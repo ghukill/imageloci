@@ -1,3 +1,9 @@
+# LOCAL TO imageloci
+# Ignore jetty directory (from hydra-jetty)
+/jetty
+
+
+
 *.rbc
 capybara-*.html
 .rspec
